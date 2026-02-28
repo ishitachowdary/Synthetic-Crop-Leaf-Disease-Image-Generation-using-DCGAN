@@ -464,7 +464,8 @@ likhil sri sai
 
 ** Feedback & Contributions
 
-**Feedback, suggestions, and contributions are welcome.
+**
+Feedback, suggestions, and contributions are welcome.
 
 If you encounter bugs, unexpected behavior, or performance issues, please open an issue.
 For improvements, optimizations, or new features, feel free to submit a pull request.
