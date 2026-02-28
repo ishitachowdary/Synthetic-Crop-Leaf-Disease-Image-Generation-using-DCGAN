@@ -431,17 +431,7 @@ Identifying usage patterns
 Supporting future retraining decisions
 
 ---
- Limitations
-While the proposed system demonstrates clear benefits of GAN-based data augmentation, several limitations remain:
 
-The DCGAN is trained without class conditioning, which prevents explicit control over the disease type during image generation.
-The generator may favor visually prominent disease features, leading to mild overrepresentation of certain classes.
-Although confidence-based filtering is applied, incorrect classifier predictions can still introduce limited label noise into the synthetic dataset.
-All images are generated at 64×64 resolution, which restricts fine-grained lesion detail and vein-level texture representation.
-Fréchet Inception Distance (FID) was not implemented; evaluation relies primarily on Inception Score and qualitative analysis.
-These limitations highlight opportunities for architectural and methodological improvements in future work.
-
----
 Future Work & Extensions
 The system is designed to be modular and extensible. Potential future enhancements include:
 
@@ -453,6 +443,7 @@ Automated Retraining Pipelines
 ---
 **Team
 **
+
 Chennupalli laxmi varshitha
 
 y.jhansi
@@ -462,6 +453,7 @@ v.swarna blessy
 md.muskan
 
 likhil sri sai
+
 ---
 
 ** Feedback & Contributions
