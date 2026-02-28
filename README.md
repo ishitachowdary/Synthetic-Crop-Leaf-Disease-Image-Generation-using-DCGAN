@@ -237,8 +237,9 @@ Input Image (3, 64, 64)
 ```
 Output: Scalar probability indicating whether the image is real or fake
 This architecture enables stable adversarial training and effective modeling of complex crop leaf disease characteristics under data-scarce conditions.
-III. 🔁 Training
-This project implements a stable and reproducible DCGAN training pipeline designed to learn the visual distribution of crop leaf disease images under data-scarce conditions.
+**III. 🔁 Training
+
+**This project implements a stable and reproducible DCGAN training pipeline designed to learn the visual distribution of crop leaf disease images under data-scarce conditions.
 
 The training logic is implemented in src/train_gan.py To train the DC GAN, run:
 ```bash
@@ -304,7 +305,8 @@ samples/
 <img width="843" height="908" alt="image" src="https://github.com/user-attachments/assets/5ada6ce1-b125-49dd-a78f-c201fad25333" />
 
 ---
-IV. 🧪 Classifier Training & Evaluation
+**IV. 🧪 Classifier Training & Evaluation
+**
 A central contribution of this project is demonstrating that GAN-generated synthetic images can measurably improve crop disease classification performance when integrated correctly.
 
 Baseline Classifier
@@ -369,7 +371,8 @@ figures/latent_interpolation.png
 <img width="884" height="177" alt="image" src="https://github.com/user-attachments/assets/af16b899-5047-4809-a6cb-a13bace580ce" />
 
 
-V. 🚀 Deployment & Application Layer
+**V. 🚀 Deployment & Application Layer
+**
 This project includes multiple deployment interfaces to make the trained DCGAN accessible for interactive use, programmatic access, and offline generation.
 
 🖥️ Streamlit Web Application
@@ -395,7 +398,8 @@ Option to download generated images as a ZIP file
 
 --- 
 
-VI. Monitoring, Versioning & Continuous Improvement
+**VI. Monitoring, Versioning & Continuous Improvement
+**
 To ensure reliability, reproducibility, and future extensibility, the system incorporates structured monitoring, model versioning, and clear paths for continuous improvement.
 
  Monitoring & Logging
@@ -440,6 +444,7 @@ Advanced GAN Architectures like WGAN-GP for improved stability, StyleGAN for hig
 Higher-Resolution Image Generation: 128×128 and 256×256 leaf images
 Region- and Season-Specific Modeling
 Automated Retraining Pipelines
+
 ---
 **Team
 **
