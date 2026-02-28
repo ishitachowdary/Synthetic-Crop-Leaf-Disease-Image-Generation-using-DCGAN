@@ -447,7 +447,7 @@ Automated Retraining Pipelines
 
 ---
 
-Team
+## Team
 
 
 Chennupalli laxmi varshitha
@@ -462,9 +462,8 @@ likhil sri sai
 
 ---
 
-** Feedback & Contributions
+##  Feedback & Contributions
 
-**
 Feedback, suggestions, and contributions are welcome.
 
 If you encounter bugs, unexpected behavior, or performance issues, please open an issue.
