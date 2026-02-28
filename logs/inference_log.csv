@@ -1,0 +1,13 @@
+timestamp,num_images,top_class
+2026-01-30T16:01:18.930038,12,Cherry_(including_sour)___Powdery_mildew
+2026-01-30T16:01:35.194787,154,Cherry_(including_sour)___Powdery_mildew
+2026-01-31T21:13:09.881160,50,Corn_(maize)___Northern_Leaf_Blight
+2026-01-31T21:13:25.319378,83,"Pepper,_bell___Bacterial_spot"
+2026-01-31T21:13:28.267309,83,Apple___Black_rot
+2026-01-31T21:15:45.378198,77,"Pepper,_bell___Bacterial_spot"
+2026-01-31T21:19:35.900585,12,"Pepper,_bell___Bacterial_spot"
+2026-01-31T21:20:41.691134,12,Corn_(maize)___Northern_Leaf_Blight
+2026-01-31T23:49:03.059371,31,"Pepper,_bell___Bacterial_spot"
+2026-02-05T23:18:55.113096,12,"Pepper,_bell___Bacterial_spot"
+2026-02-05T23:18:59.538307,12,Apple___Black_rot
+2026-02-05T23:19:04.443393,33,Corn_(maize)___Northern_Leaf_Blight

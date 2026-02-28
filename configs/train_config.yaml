@@ -1,0 +1,17 @@
+dcgan:
+  latent_dim: 100
+  batch_size: 64
+  epochs: 150
+
+optimizer:
+  type: Adam
+  lr: 0.0002
+  beta1: 0.5
+  beta2: 0.999
+
+device:
+  use_cuda: true
+
+logging:
+  save_checkpoints_every: 50
+  sample_every: 5

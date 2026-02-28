@@ -1,0 +1,29 @@
+# Deep Learning
+torch
+torchvision
+torchaudio
+
+# Data handling
+numpy
+pandas
+Pillow
+tqdm
+PyYAML
+
+# Visualization
+matplotlib
+seaborn
+
+# Machine Learning
+scikit-learn
+
+# App & Deployment
+streamlit
+fastapi
+uvicorn
+
+# Dataset handling
+kaggle
+
+# Optional utilities
+opencv-python

@@ -1,0 +1,8 @@
+{
+    "model": "DCGAN",
+    "latent_dim": 100,
+    "batch_size": 64,
+    "epochs": 150,
+    "image_size": 64,
+    "device": "cpu"
+}
